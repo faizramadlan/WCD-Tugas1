@@ -18,7 +18,7 @@ WCD-Tugas1 is a JavaScript-based project designed to perform several mathematica
 
 1. **Clone the repository:**
     ```bash
-    git clone [repository-url]
+    git clone https://github.com/faizramadlan/WCD-Tugas1.git
     ```
 2. **Navigate to the project directory:**
     ```bash
